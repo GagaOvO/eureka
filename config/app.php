@@ -12,7 +12,7 @@ return [
     | any other location as required by the application or its packages.
     */
 
-    'name' => 'Realtime Chat with Laravel, Vue and Pusher',
+    'name' => 'Eureka Business Chat Room',
 
     /*
     |--------------------------------------------------------------------------
